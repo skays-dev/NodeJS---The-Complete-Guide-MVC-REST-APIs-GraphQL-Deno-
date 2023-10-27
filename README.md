@@ -1,7 +1,3 @@
-# Project Name
-
-Events Project
-
 ## Table of Contents
 
 - [Introduction](#introduction)
